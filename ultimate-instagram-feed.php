@@ -40,7 +40,7 @@ function activate_ultimate_instagram_feed() {
 }
 
 /**
- * The code that runs during plugin deactivation.
+ * The code that runs durintest agagag plugin deactivation.
  * This action is documented in includes/class-ultimate-instagram-feed-deactivator.php
  */
 function deactivate_ultimate_instagram_feed() {
