@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       Ultimate Instagram Feed
  * Plugin URI:        ultimate-instagram-feed
- * Description:       Ulitmate instagram feed is the best plugin for displaying instagram feeds by username, you can display them with already designed template by shortcode, or you can display them in your ready desgined template with the WP REST API.
+ * Description:       Ulitmate insnewwwtagram feed is the best plugin for displaying instagram feeds by username, you can display them with already designed template by shortcode, or you can display them in your ready desgined template with the WP REST API.
  * Version:           1.3.5
  * Author:            Omar Kasem
  * Author URI:        https://profiles.wordpress.org/omarkasem
