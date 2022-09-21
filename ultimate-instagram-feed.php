@@ -21,7 +21,7 @@
  * Author URI:        https://profiles.wordpress.org/omarkasem
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain:       ultimate-instagram-feed
+ * Text Domain:       ultimate-instagram-feedzzz
  * Domain Path:       /languages
  */
 
